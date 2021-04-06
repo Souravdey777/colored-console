@@ -1,0 +1,29 @@
+{
+  "name": "@souravdey/colored-console",
+  "version": "1.0.0",
+  "description": "Coloured console logs for a smart way of debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souravdey777/colored-console.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logs",
+    "debugging",
+    "colored",
+    "logs",
+    "colored",
+    "logs"
+  ],
+  "author": "Sourav Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Souravdey777/colored-console/issues"
+  },
+  "homepage": "https://github.com/Souravdey777/colored-console#readme"
+}
